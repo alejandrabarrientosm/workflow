@@ -98,7 +98,7 @@ You can make an update in the thread, and usually when this is done it will send
 <img width="1292" height="912" alt="image" src="https://github.com/user-attachments/assets/190be681-9420-4bb3-ade5-6a2d7ec69a74" />
 <img width="1280" height="909" alt="image" src="https://github.com/user-attachments/assets/6277c011-14eb-4472-9d4b-b59c3988b8db" />
 
-<h2>Resolution</h2>
+
 You can see all the trail of reply from Agent John and Agent Jane
 <p align left>
 <img width="1087" height="913" alt="image" src="https://github.com/user-attachments/assets/6626c347-1ffc-4247-817a-21af2ca80d3b" />
@@ -121,49 +121,68 @@ Then we are going to log into osTicket as Agent John (worker)
 <img width="558" height="538" alt="image" src="https://github.com/user-attachments/assets/6e970b92-8380-477e-a99a-0fa2369a8438" />
 <img width="1295" height="511" alt="image" src="https://github.com/user-attachments/assets/02528d59-4845-4da6-ba94-94f78a9884cf" />
 
-Inspect ticket #577334, the issue summary looks ambiguous 
+Inspect ticket #577334, the issue summary looks ambiguous, Agent John should contact Ken in order to get more information about the issue.
+<p align left>
+<img width="878" height="344" alt="image" src="https://github.com/user-attachments/assets/deee2969-433a-4ebb-9589-cd05327fd4ff" />
+
+<h2>Assignment and Communication</h2>
+Agent Jonh contact Ken and asked how many people have been affected by the issue and it turned out there are only 2 people in the Accounting Department, Agent John then suggest Ken to restart the computer because there were a lot of updates in Windows, Ken agrees to Agent John alternative to fix the issue and will call them after lunch to find out if that fix the issue
+<p align left>
+<img width="875" height="333" alt="image" src="https://github.com/user-attachments/assets/26783ec5-c78f-4f66-af0f-3d2fef6b4def" />
+
+<h2>Working the Issue</h2>
+John assigned the ticket to himself and is working the ticket
+<p aling left>
+<img width="1287" height="824" alt="image" src="https://github.com/user-attachments/assets/a30c5698-8b29-4c98-861c-202813818b4b" />
+
+After a few hours end user Ken, called back to Help Desk and notified that issues have and everything is working fine, agent John make a note about call and resolved the ticket
+<p align left>
+<img width="1278" height="842" alt="image" src="https://github.com/user-attachments/assets/74874fc3-da9e-4ea7-b8a3-b53c05fe6088" />
+
+<h2>Resolution</h2>
+You can see the notes about the issue, John proceed to resolved the ticket.
+<p align left>
+<img width="1293" height="723" alt="image" src="https://github.com/user-attachments/assets/a6e9c1b5-daee-4a08-a1fa-8912ec70d50a" />
+<img width="872" height="296" alt="image" src="https://github.com/user-attachments/assets/86e8a7c4-8307-445f-badc-fc9b45a809a6" />
 
 
+Last ticket of this lab will be as an end-user Karen, create the following ticket: CFO’s laptop will no longer turn on
+
+<p align left>
+<img width="517" height="335" alt="Screenshot 2025-11-29 152350" src="https://github.com/user-attachments/assets/b3f20658-1513-40f1-a7b2-b0746d3dd866" />
+<img width="945" height="902" alt="image" src="https://github.com/user-attachments/assets/50847a8d-4510-490d-b3ae-5e1a05d62501" />
+<img width="952" height="602" alt="image" src="https://github.com/user-attachments/assets/a7184160-c95c-4949-a2fc-084887c4a4d4" />
+
+<h2>Intake</h2>
+Agent John, received the ticket from Karen regarding the CFO's issue, observe everything. He then change the priority of ticket #384932 to Emergency
+<p align left>
+<img width="875" height="336" alt="image" src="https://github.com/user-attachments/assets/1184432b-1888-4f34-92df-622b5c3406d6" />
+
+Update the SLA from Default to Sev-B
+<p align left>
+<img width="875" height="340" alt="image" src="https://github.com/user-attachments/assets/16daafc8-5ba5-44c6-8a96-6720badb4d86" />
+
+And assign himself the ticket to work it out
+<p align left>
+<img width="877" height="343" alt="image" src="https://github.com/user-attachments/assets/f433bc5a-aaa9-4ddf-931b-fd6061bfab7b" />
+<img width="1288" height="700" alt="image" src="https://github.com/user-attachments/assets/5a4f5a3f-4281-49db-b03b-5b9d02e392cd" />
+
+<h2>Assignment and Communication</h2>
+John decided to call CFO because if he ping on Teams probably won't answer because his computer is not working or he can also reach out to Karen to fix the issue. John went to his office to find out more about the problem
+<p align left>
+<img width="1283" height="901" alt="image" src="https://github.com/user-attachments/assets/27c832fc-6aad-4858-9359-f37f5555b1db" />
+
+<h2>Resolution</h2>
+John brought new charger and now is successfully charging 
+<p align left>
+<img width="1289" height="826" alt="image" src="https://github.com/user-attachments/assets/49b08bbe-8e26-40a9-b4c6-55b14354ebd6" />
+
+Ticket #384932 have been resolved by Agent John
+<p align left>
+<img width="879" height="306" alt="image" src="https://github.com/user-attachments/assets/87f4346a-2574-46af-a241-1efd06e529fd" />
+<img width="1301" height="523" alt="image" src="https://github.com/user-attachments/assets/f73309f0-db27-4859-88e0-678710e24309" />
 
 
+This conclude our Ticket workflow.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-4
