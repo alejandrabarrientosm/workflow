@@ -108,7 +108,7 @@ And now that everything has been fixed, we can set ticket #242075 from Open to R
 <img width="518" height="269" alt="Screenshot 2025-11-29 151626" src="https://github.com/user-attachments/assets/5bd209af-5139-4837-968c-34c94bc531a5" />
 <img width="1305" height="538" alt="image" src="https://github.com/user-attachments/assets/b16a5d55-3e7f-495b-8e74-0ce79293aabf" />
 
-For this lab we have 2 tickets to create, after the first ticket have been resolved we are going to create a second ticket as Ken an end-user, create the following ticket
+For this lab we have 3 tickets to create, after the first ticket have been resolved we are going to create a second ticket as Ken an end-user, create the following ticket
 accounting department needs adobe upgrade, broken
 <p align left>
 <img width="517" height="335" alt="Screenshot 2025-11-29 152350" src="https://github.com/user-attachments/assets/b3f20658-1513-40f1-a7b2-b0746d3dd866" />
