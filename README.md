@@ -183,6 +183,6 @@ Ticket #384932 have been resolved by Agent John
 <img width="1301" height="523" alt="image" src="https://github.com/user-attachments/assets/f73309f0-db27-4859-88e0-678710e24309" />
 
 
-This conclude our Ticket workflow.
+There can be more ways to intake the tickets but for the purpose of this lab we only use the online ticket, but customer can call directly help desk, send an email or start a chat to create a ticket. This conclude our Ticket workflow. 
 
 
